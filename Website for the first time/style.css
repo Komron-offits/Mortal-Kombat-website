@@ -1,0 +1,56 @@
+body{
+    font-family: Roboto Condensed,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: 0.5px;
+    color: black;
+    background-color: white;
+}
+.sitenav{
+    background-color: brown;
+}
+.sitenav-list{
+    list-style: none;
+}
+.sitenav-link{
+    text-decoration: none;
+    color: black;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+.hero-content{
+    background-color: red;
+    text-align: center;
+}
+.hero-heading{
+    font-size: 60px;
+}
+.hero-button{
+    text-decoration: none;
+    color: white;
+}
+.main-words{
+    text-align: center;
+}
+.main-words-h2{
+    font-family: 'Zilla Slab', serif;
+    text-transform: uppercase;
+    font-size: 40px;
+}
+.main-pictures{
+    border: 1px solid;
+    border-radius: 5px;
+    border-width: 5px;
+}
+.main-pictures-h3{
+    font-family: 'Zilla Slab', serif;
+    text-transform: uppercase;
+    font-size: 25px;
+    font-weight: bold;  
+    text-transform: uppercase;  
+}
+.main-pictures-p{
+    font-weight: 400;
+}
